@@ -41,7 +41,7 @@ CREATE TABLE `students` (
 --
 
 INSERT INTO `students` (`id`, `name`, `img`, `email`, `pin`, `date_added`) VALUES
-(15010280, 'Admin Tester', 'profile.png', 'admin@test.com', 'dbac8bc25e1537bac7a6c1a34e569f8c93766029', '2021-04-01');
+(10911723, 'Admin Tester', 'profile.png', 'admin@test.com', '8CB2237D0679CA88DB6464EAC60DA96345513964', '2021-04-01');
 
 --
 -- Indexes for dumped tables
